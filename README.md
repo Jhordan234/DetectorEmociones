@@ -163,7 +163,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo Principal* - [@tu-usuario](https://github.com/tu-usuario)
+- **Tu Nombre** - *Desarrollo Principal* - [@tu-usuario](https://github.com/Jhordan234)
 
 ---
 
@@ -172,16 +172,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - Dataset FER2013 para entrenamiento
 - Comunidad de TensorFlow y Keras
 - OpenCV por las herramientas de visión computacional
-
----
-
-## 📧 Contacto
-
-¿Preguntas o sugerencias? 
-
-📧 Email: tu-email@ejemplo.com  
-🐦 Twitter: [@tu_usuario](https://twitter.com/tu_usuario)  
-💼 LinkedIn: [Tu Nombre](https://linkedin.com/in/tu-perfil)
 
 ---
 
