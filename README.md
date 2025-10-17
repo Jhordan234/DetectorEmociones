@@ -163,7 +163,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo Principal* - [@tu-usuario](https://github.com/Jhordan234)
+- **Tu Nombre** - *Desarrollo Principal* - [@Jhordan234](https://github.com/Jhordan234)
 
 ---
 
