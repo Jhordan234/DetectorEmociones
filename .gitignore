@@ -1,0 +1,6 @@
+# Entornos virtuales de Python
+env/
+venv/
+.venv/        # Agregado para ignorar el directorio .venv
+*.venv/
+*.env/
